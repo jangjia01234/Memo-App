@@ -76,8 +76,6 @@
 		8DC478512BA31776009682FD /* Memory */ = {
 			isa = PBXGroup;
 			children = (
-				8DC478472BA31743009682FD /* Persistence.swift */,
-				8DC478492BA31743009682FD /* SwiftUIMemo.xcdatamodeld */,
 			);
 			path = Memory;
 			sourceTree = "<group>";
@@ -85,6 +83,8 @@
 		8DC478522BA3177D009682FD /* CoreData */ = {
 			isa = PBXGroup;
 			children = (
+				8DC478492BA31743009682FD /* SwiftUIMemo.xcdatamodeld */,
+				8DC478472BA31743009682FD /* Persistence.swift */,
 			);
 			path = CoreData;
 			sourceTree = "<group>";
